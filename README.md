@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on any field of my intrest
 - 📫 How to reach me karunyaaravapalli@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love to interact with people and build strong community
+  
 
 <!---
 Karunya-3/Karunya-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
