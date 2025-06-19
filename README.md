@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karunya-3
 - 👀 I’m interested in web development, artificial intelligence
 - 🌱 I’m currently learning react, practicing dsa, oops
-- 💞️ I’m looking to collaborate on any field of my intrest
+- 💞️ I’m looking to collaborate on any field of my interest
 - 📫 How to reach me karunyaaravapalli@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to interact with people and build strong community
